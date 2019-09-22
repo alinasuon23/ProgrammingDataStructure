@@ -1,6 +1,4 @@
 /* 
-Sean Masterson
-Alina Suon
 September 11, 2018
 Purpose: This program is used to display a bar chart of a population by year given by an input and written to an output file. 
 Inputs: the input file name continaning the info
