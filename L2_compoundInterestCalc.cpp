@@ -1,6 +1,4 @@
-/* Sean Masterson 018653932
-   Alina Susan
-   August 30, 2018
+/* August 30, 2018
    Purpose: This program is used to calculate how many years it takes to make $75,000 with an original principle of $50,000
    Inputs: interest rate, number of times compounded, original principle
    Outputs: The number of years needed to have a balance >= $75,000
