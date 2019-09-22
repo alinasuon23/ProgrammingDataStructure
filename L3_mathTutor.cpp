@@ -1,6 +1,4 @@
-/*	Sean Masterson
-	Alina Susan
-	September 4, 2018
+/*	September 4, 2018
 	Purpose: To generate two random numbers and calculate the result of performing an operation on them. Then check if user predicts answer correctly.
 	Inputs: Largest possible random number to generate, operator, and the answer the user predicts.
 	Output: Whether the answer the user predicted is correct. If not, then show the real answer.
