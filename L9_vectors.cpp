@@ -1,6 +1,4 @@
-/*	Sean Masterson
-	Alina Susan
-	September 25, 2018
+/*	September 25, 2018
 	Purpose: To create a vector of names and make changes to it.
 	Inputs: What name the user wants to add prior to 'Doug' and what name to remove
 	Output: The vector after each modification
