@@ -1,6 +1,4 @@
-/*	Sean Masterson
-	Alina Susan
-	September 18, 2018
+/*	September 18, 2018
 	Purpose: Display a list of items in a string array.
 	Inputs: The string array with the menu options and which option the user wants
 	Output: Whether the option the user entered is valid and if it is, which option they entered.
