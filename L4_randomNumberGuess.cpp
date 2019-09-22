@@ -1,6 +1,4 @@
-/*	Sean Masterson
-	Alina Susan
-	September 6, 2018
+/*	September 6, 2018
 	Purpose: To allow a user to guess a number randomly generated with a max value specified by the user.
 	Inputs: Max random number and user's guesses.
 	Output: Whether the user's guess was correct and the maximum number of guesses needed which is log base 2 of the random number.
