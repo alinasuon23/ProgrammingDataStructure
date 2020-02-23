@@ -1,0 +1,17 @@
+At the start, no elements, the number of elements is: 0 and the capacity is: 2
+After adding one element, the number of elements is: 1 and the capacity is: 2
+After adding the second, the number of elements is: 2 and the capacity is: 2
+After adding the third, the number of elements is: 3 and the capacity is: 4
+After adding the fourth, the number of elements is: 4 and the capacity is: 4
+After adding the fifth, the number of elements is: 5 and the capacity is: 8
+Billy
+Joel
+concerts
+are
+wonderful
+Error, tried to access element: 5 and got message: Attempted to access index out
+ of bounds.
+Attempting to create String with negative size:
+Error message: Invalid size for the array of strings. for creating String with:
+-5
+Completed satisfactorily

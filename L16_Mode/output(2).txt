@@ -1,0 +1,58 @@
+How many values --> 1
+Enter the next value --> 5
+The next value/frequency is: 5/1
+Continue (y/n) --> y
+How many values --> 10
+Enter the next value --> 1
+Enter the next value --> 1
+Enter the next value --> 2
+Enter the next value --> 2
+Enter the next value --> 3
+Enter the next value --> 3
+Enter the next value --> 3
+Enter the next value --> 4
+Enter the next value --> 4
+Enter the next value --> 4
+The next value/frequency is: 3/3
+The next value/frequency is: 4/3
+Continue (y/n) --> y
+How many values --> 10
+Enter the next value --> 1
+Enter the next value --> 1
+Enter the next value --> 2
+Enter the next value --> 2
+Enter the next value --> 2
+Enter the next value --> 3
+Enter the next value --> 4
+Enter the next value --> 4
+Enter the next value --> 4
+Enter the next value --> 5
+The next value/frequency is: 2/3
+The next value/frequency is: 4/3
+Continue (y/n) --> y
+How many values --> 5
+Enter the next value --> 1
+Enter the next value --> 2
+Enter the next value --> 3
+Enter the next value --> 4
+Enter the next value --> 5
+The next value/frequency is: 1/1
+The next value/frequency is: 2/1
+The next value/frequency is: 3/1
+The next value/frequency is: 4/1
+The next value/frequency is: 5/1
+Continue (y/n) --> y
+How many values --> 10
+Enter the next value --> 1
+Enter the next value --> 2
+Enter the next value --> 3
+Enter the next value --> 4
+Enter the next value --> 5
+Enter the next value --> 6
+Enter the next value --> 7
+Enter the next value --> 8
+Enter the next value --> 9
+Enter the next value --> 1
+The next value/frequency is: 1/2
+Continue (y/n) --> n
+Completed satisfactorily
